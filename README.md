@@ -31,6 +31,6 @@ Specific topics covered include:
 
 ## About
 
-Jia Yu is one of the designers of ASU DB Courses on Coursera.
+Jia Yu was one of the designers of ASU DB Courses on Coursera.
 
-Jia is a PhD student at the Computer Science department, School of Computing, Informatics, and Decision Systems Engineering (CIDSE), Arizona State University, where he is a member of Data Systems Lab. Jia’s research focuses on database systems and geospatial data management. In particular, he worked on distributed data management systems, database indexing, data visualization. He is the main contributor of several open-sourced research projects such as GeoSpark, a cluster computing framework for processing big spatial data.
+Jia is an assistant professor at Washington State University School of Electrical Engineering and Computer Science. He was a PhD student at the Computer Science department, School of Computing, Informatics, and Decision Systems Engineering (CIDSE), Arizona State University, where he is a member of Data Systems Lab.
